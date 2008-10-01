@@ -2,9 +2,6 @@
 //  LKGoogleTranslator.m
 //  GoogleTranslator
 //
-//  Created by Petr Homola on 01.10.08.
-//  Copyright 2008 Univerzita Karlova. All rights reserved.
-//
 
 #import "LKGoogleTranslator.h"
 #import "JSON.h"

@@ -2,9 +2,6 @@
 //  LKConstants.h
 //  GoogleTranslator
 //
-//  Created by Petr Homola on 01.10.08.
-//  Copyright 2008 Univerzita Karlova. All rights reserved.
-//
 
 #define LKLanguageARABIC @"ar"
 #define LKLanguageBULGARIAN @"bg"
